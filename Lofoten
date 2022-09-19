@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>GRANADA</title>
+    <link rel="stylesheet" href="Granada.css">
+  <style type="text/css"></style> 
+  </head>
+  <body>
+    <h1>Granada</h1>
+    <img src="granada.jpg" alt="granada" class="granada">
+    <p class="basinfgranda">Granada is a city in southern Spain’s Andalusia region, in the foothills of the Sierra Nevada mountains. It's known for grand examples of medieval architecture dating to the Moorish occupation, especially the Alhambra. This sprawling hilltop fortress complex encompasses royal palaces, serene patios, and reflecting pools from the Nasrid dynasty, as well as the fountains and orchards of the Generalife gardens.</p><br>
+
+    <h2>Sights in Granada</h2>
+
+
+    <ul>
+      <li>Alhambra: A Masterpiece of Islamic Architecture</li>
+      <img src="granada_alhambra.jpg" alt="alhambra" class="alhambra">
+      <y>© Copyright 2022 PlanetWare Inc.</y><br><hr>
+      <li>Catedral Santa María de la Encarnación</li>
+      <img src="granada_catedral.jpg" alt="catedral" class="catedral">
+      <y>© Copyright 2022 PlanetWare Inc.</y><br><hr>
+      <li>The 16th-Century Monasterio de la Cartuja</li>
+      <img src="granada_monasterio.jpg" alt="monasterio" class="monasterio">
+      <y>© Copyright 2022 PlanetWare Inc.</y><br>
+
+    </ul>
+    <a href="index.html">Return to home page</a>
+  
+
+</body>
+</html>
