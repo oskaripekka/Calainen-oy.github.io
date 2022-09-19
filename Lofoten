@@ -2,12 +2,12 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>GRANADA</title>
-    <link rel="stylesheet" href="Granada.css">
+    <title>Lofoten</title>
+    <link rel="stylesheet" href="Lofoten.css">
   <style type="text/css"></style> 
   </head>
   <body>
-    <h1>Granada</h1>
+    <h1>Lofoten</h1>
     <img src="granada.jpg" alt="granada" class="granada">
     <p class="basinfgranda">Granada is a city in southern Spain’s Andalusia region, in the foothills of the Sierra Nevada mountains. It's known for grand examples of medieval architecture dating to the Moorish occupation, especially the Alhambra. This sprawling hilltop fortress complex encompasses royal palaces, serene patios, and reflecting pools from the Nasrid dynasty, as well as the fountains and orchards of the Generalife gardens.</p><br>
 
